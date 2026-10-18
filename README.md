@@ -12,3 +12,15 @@ An updated version of the Anki add-on **"Popup-Wiki and Doccheck (multi-language
 
 ## License
 All credits for the original idea and code base go to the original author listed on AnkiWeb.
+
+
+## Installation
+
+Since this is an updated version for modern Anki / PyQt6, you can install it manually:
+
+1. Click on the green **"Code"** button at the top of this repository and select **"Download ZIP"**.
+2. Unzip the downloaded archive.
+3. Open Anki and go to **Tools** > **Add-ons**.
+4. Click on **"Open Add-ons Folder"**.
+5. Move the unzipped folder into your Anki add-ons directory.
+6. Restart Anki.
