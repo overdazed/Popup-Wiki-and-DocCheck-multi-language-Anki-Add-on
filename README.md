@@ -18,9 +18,10 @@ All credits for the original idea and code base go to the original author listed
 
 Since this is an updated version for modern Anki, you can install it manually:
 
-1. Click on the green **"Code"** button at the top of this repository and select **"Download ZIP"**.
-2. Unzip the downloaded archive.
-3. Open Anki and go to **Tools** > **Add-ons**.
-4. Click on **"Open Add-ons Folder"**.
-5. Move the unzipped folder into your Anki add-ons directory.
-6. Restart Anki.
+1. Go to the **Releases** section on the right side of this repository.
+2. Download the ready-to-use `.zip` file from the latest release.
+3. Unzip the archive directly into your Anki add-ons directory:
+   * Open Anki and go to **Tools** > **Add-ons**.
+   * Click on **"Open Add-ons Folder"**.
+   * Move the unzipped folder into this directory.
+4. Restart Anki.
