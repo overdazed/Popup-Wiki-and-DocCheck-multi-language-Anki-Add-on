@@ -1,8 +1,8 @@
-# Popup-Wiki and Doccheck (multi-language) Anki Add-on
-An updated version of the Anki add-on **"Popup-Wiki and Doccheck (multi-language)"** updated to support modern Anki versions (Anki 23.10+ / 24+ / 26+).
+# Popup-Wiki and DocCheck (multi-language) Anki Add-on
+An updated version of the Anki add-on **"Popup-Wiki and DocCheck (multi-language)"** updated to support modern Anki versions (Anki 23.10+ / 24+ / 26+).
 
 ## Credits
-* **Original Add-on:** [Popup-Wiki and Doccheck (multi-language)](https://ankiweb.net/shared/info/482393989) on AnkiWeb.
+* **Original Add-on:** [Popup-Wiki and DocCheck (multi-language)](https://ankiweb.net/shared/info/482393989) on AnkiWeb.
 * **Original Functionality:** Created for integration of Wikipedia & DocCheck Flexikon directly within Anki.
 
 ## Features
