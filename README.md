@@ -1,4 +1,4 @@
-# Popup-Wiki-and-Doccheck-multi-language-Anki-Add-on
+# Popup-Wiki and Doccheck (multi-language) Anki Add-on
 An updated version of the Anki add-on **"Popup-Wiki and Doccheck (multi-language)"** updated to support **Qt6 / PyQt6** and modern Anki versions (Anki 23.10+ / 24+ / 26+).
 
 ## Credits
